@@ -1,0 +1,316 @@
+{
+  "contact-messages": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "msg": "Hello!"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "msg": "Hi there!"
+    },
+    {
+      "id": "b43d",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "0489",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "58d7",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "36a2",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "eb30",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "cc95",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "accd",
+      "name": "hei",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "be5e",
+      "name": "nikolai",
+      "email": "nikolai@example.com",
+      "msg": "hei"
+    },
+    {
+      "id": "acd0",
+      "name": "nikolai",
+      "email": "nikolai@example.com",
+      "msg": "test"
+    },
+    {
+      "id": "7de7",
+      "name": "nikolai",
+      "email": "nikolai@example.com",
+      "msg": "test"
+    },
+    {
+      "id": "6b44",
+      "name": "dette er en test",
+      "email": "test@example.com",
+      "msg": "test"
+    },
+    {
+      "id": "5a5b",
+      "name": "dette er en test",
+      "email": "test@example.com",
+      "msg": "test"
+    },
+    {
+      "id": "46f4",
+      "name": "dette er en test",
+      "email": "test@example.com",
+      "msg": "test"
+    },
+    {
+      "id": "3d94",
+      "name": "dette er en test",
+      "email": "test@example.com",
+      "msg": "test"
+    },
+    {
+      "id": "ce27",
+      "name": "test1000",
+      "email": "test1000@example.com",
+      "msg": "test igjen"
+    },
+    {
+      "id": "71ac",
+      "name": "hei",
+      "email": "hei@gmail.com",
+      "msg": "hei dette er en siste test"
+    },
+    {
+      "id": "21fa",
+      "name": "siste test jeg lover",
+      "email": "a@b.com",
+      "msg": "haha"
+    },
+    {
+      "id": "b648",
+      "name": "navn",
+      "email": "navn@example.com",
+      "msg": "tror alt skal virke nå"
+    },
+    {
+      "id": "1eb5",
+      "name": "hei",
+      "email": "hei@exaample.com",
+      "msg": "hei"
+    },
+    {
+      "id": "6415",
+      "name": "hei",
+      "email": "hei@hei.hei",
+      "msg": "heiheihei"
+    },
+    {
+      "id": "a4c9",
+      "name": "test",
+      "email": "test@test.no",
+      "msg": "testtest"
+    },
+    {
+      "id": "0cde",
+      "name": "nikolai",
+      "email": "nikolai.tandbe@gmail.com",
+      "msg": "hei"
+    },
+    {
+      "id": "4636",
+      "name": "awdawdawd",
+      "email": "pajeifaf@aoiefhiaoewf.npiaoefopaf",
+      "msg": "OAIENFIOAEFIOAEFN"
+    },
+    {
+      "id": "62bd",
+      "name": "nei",
+      "email": "oianef@oaenfa.naoiewfawf",
+      "msg": "aoiefn"
+    },
+    {
+      "id": "4066",
+      "name": "test igjen",
+      "email": "test@test.test",
+      "msg": "test 1000000000"
+    },
+    {
+      "id": "874c",
+      "name": "awfawfljk",
+      "email": "awølfkdnawf@gmail.com",
+      "msg": "afawefawef"
+    },
+    {
+      "id": "b2d0",
+      "name": "adfpanfp",
+      "email": "åaoefå@aepfn.npo",
+      "msg": "apieifn"
+    },
+    {
+      "id": "0003",
+      "name": "awdflakwnf",
+      "email": "pafnp@aefiopniaef.no",
+      "msg": "pianewfpia"
+    },
+    {
+      "id": "8adf",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "msg": "this is a test message."
+    },
+    {
+      "id": "02f8",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "msg": "this is a test message."
+    },
+    {
+      "id": "3378",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "msg": "this is a test message."
+    },
+    {
+      "id": "ec79",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "msg": "this is a test message."
+    },
+    {
+      "id": "51bd",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "msg": "this is a test message."
+    },
+    {
+      "id": "6118",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "c261",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "3563",
+      "name": "hei",
+      "email": "hei@naioefn.no",
+      "msg": "hei"
+    },
+    {
+      "id": "f480",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "4d6f",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "9dd4",
+      "name": "oiahf",
+      "email": "oauiefuioa@apioefj.no",
+      "msg": "opiaefi"
+    },
+    {
+      "id": "2fca",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "4239",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "1575",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "cf07",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "d267",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "0140",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "5bf0",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "548d",
+      "name": "afiopengi",
+      "email": "pianefipa@apeifn.no",
+      "msg": "oaienfoiaenf"
+    },
+    {
+      "id": "d59d",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "83fe",
+      "name": "test testesen",
+      "email": "test@example.com",
+      "msg": "dette er en e2e test gjort med cyprus."
+    },
+    {
+      "id": "fa87",
+      "name": "oainefni",
+      "email": "apkefni@apioefn.no",
+      "msg": "aoiefnioaef"
+    }
+  ]
+}
