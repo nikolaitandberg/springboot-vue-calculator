@@ -41,7 +41,7 @@ backenden kjører nå på http://localhost:8080
 cd frontend
 ```
 
-2. installer nødvendigheter
+2. Installer nødvendige pakker
 ```
 npm install
 ```
