@@ -6,10 +6,9 @@ Prosjektet er en webapplikasjon som består av en kalkulator med brukerinnloggin
 
 ## Systemkrav
 
-- java
-- node.js
-- maven
-- npm
+- **JDK 21**
+- **maven 3.8+**
+- **node.js 20+**
 
 ## Oppsett
 
@@ -54,4 +53,4 @@ npm run dev
 frontenden kjører nå på http://localhost:5173
 
 ## Lisens
-Dette prosjektet er lisensiert under Apache 2.0. Se LISENS-filen for mer informasjon.
+Dette prosjektet er lisensiert under Apache 2.0. Se LICENSE-filen for mer informasjon.
